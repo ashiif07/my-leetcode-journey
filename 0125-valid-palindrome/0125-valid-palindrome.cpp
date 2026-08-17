@@ -10,7 +10,7 @@ public:
         int st = 0, end = s.length() - 1;
 
         while (st < end) {
-            if (!isAlphaNum(s[st])) {
+            /* if (!isAlphaNum(s[st])) { */ if(!isalnum(s[st])) {
                 st++;
                 continue;
             }
