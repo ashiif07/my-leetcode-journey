@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashiif07/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/ashiif07/LeetHub/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -69,8 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashiif07/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashiif07/LeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
