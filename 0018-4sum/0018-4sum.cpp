@@ -11,7 +11,6 @@ public:
         for (int i = 0; i < n; i++) {
             if (i > 0 && nums[i] == nums[i - 1]){
                 continue;
-             //  i++;
              }
             for (int j = i + 1; j < n;) {
                 int p = j + 1, q = n - 1;
