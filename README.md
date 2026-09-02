@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashiif07/LeetHub/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ashiif07/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashiif07/LeetHub/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashiif07/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ashiif07/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/ashiif07/LeetHub/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ashiif07/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashiif07/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashiif07/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashiif07/LeetHub/tree/master/0018-4sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ashiif07/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
