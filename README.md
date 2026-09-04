@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashiif07/LeetHub/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ashiif07/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ashiif07/LeetHub/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashiif07/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashiif07/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashiif07/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/ashiif07/LeetHub/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
